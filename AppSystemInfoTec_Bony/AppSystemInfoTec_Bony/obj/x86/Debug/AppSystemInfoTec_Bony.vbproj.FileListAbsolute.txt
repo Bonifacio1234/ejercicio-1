@@ -1,0 +1,8 @@
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Bony\AppSystemInfoTec_Bony\obj\x86\Debug\AppSystemInfoTec_Bony.Resources.resources
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Bony\AppSystemInfoTec_Bony\obj\x86\Debug\AppSystemInfoTec_Bony.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Bony\AppSystemInfoTec_Bony\bin\Debug\AppSystemInfoTec_Bony.exe
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Bony\AppSystemInfoTec_Bony\bin\Debug\AppSystemInfoTec_Bony.pdb
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Bony\AppSystemInfoTec_Bony\bin\Debug\AppSystemInfoTec_Bony.xml
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Bony\AppSystemInfoTec_Bony\obj\x86\Debug\AppSystemInfoTec_Bony.exe
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Bony\AppSystemInfoTec_Bony\obj\x86\Debug\AppSystemInfoTec_Bony.xml
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_Bony\AppSystemInfoTec_Bony\obj\x86\Debug\AppSystemInfoTec_Bony.pdb
